@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungMin's%20Github&fontAlign=middle&fontAlignY=middle&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungMin's%20Github&fontAlign=middle&fontAlignY=right&color=gradient)
 
 <!--
 **smpark00/smpark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
