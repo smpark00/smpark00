@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SeungMin's%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align = "center">
-🧑🏻‍💻 Me 🧑🏻‍💻 
+🧑🏻‍💻 박승민의 깃허브 🧑🏻‍💻 
 </div>
 <br>
 <div align = "center">
@@ -10,6 +10,8 @@
 <a href="https://velog.io/@sm_park00">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonydragon)](https://solved.ac/tonydragon/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonydragon)](https://solved.ac/tonydragon/)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
+</div>
