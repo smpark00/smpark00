@@ -10,7 +10,7 @@
 <a href="https://velog.io/@sm_park00">
 </div>
 
-<div style="centered">
+<div style="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonydragon)](https://solved.ac/tonydragon/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smpark00)](https://github.com/anuraghazra/github-readme-stats)
