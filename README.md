@@ -7,11 +7,15 @@
 <div align = "center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark00&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://velog.io/@sm_park00"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
-
-<a href="mailto:psm0811@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=psm0811@kyonggi.ac.kr"/></a>
 </div>
+
+<h3 align="center"><b>💌 Contact 💌 </b></h3>
+</br>
+<p align="center">
+<a href="mailto:psm0811@kyonggi.ac.kr><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:psm0811@kyonggi.ac.kr"/></a>
+<a href="https://www.instagram.com/sm_park0.0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sm_park0.0"/></a>
+<a href="https://velog.io/@sm_park00"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@sm_park00"/></a>
+</p>
 
 <div align="center">
   
