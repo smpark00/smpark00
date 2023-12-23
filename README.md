@@ -11,15 +11,11 @@
 
 <h3 align="center"><b> Language </b></h3>
 <div align="center">
-  
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
 <div align="center">
 
 <h3 align="center"><b>💌 Contact 💌 </b></h3>
-</br>
 <div align="center">
   
 <a href="mailto:psm0811@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:psm0811@kyonggi.ac.kr"/></a>
