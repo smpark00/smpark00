@@ -1,13 +1,22 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SeungMin's%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align = "center">
-🧑🏻‍💻 박승민의 깃허브 🧑🏻‍💻 
+🧑🏻‍💻 <b> 박승민의 깃허브  </b>🧑🏻‍💻 
 </div>
 <br>
 <div align = "center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmpark00&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+<h3 align="center"><b> Language </b></h3>
+<div align="center">
+  
+[![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
+
+<div align="center">
 
 <h3 align="center"><b>💌 Contact 💌 </b></h3>
 </br>
