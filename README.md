@@ -26,8 +26,10 @@
 
 <h3 align="center"><b> Certificate </b></h3>
 <div align="center">
-
+![SQLD](https://img.shields.io/badge/SQLD-#5858FA.svg?&style=for-the-badge&logo=SLQD&logoColor=white)
 </div>
+
+---
 
 <div align="center">
   
