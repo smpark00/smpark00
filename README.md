@@ -37,5 +37,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonydragon)](https://solved.ac/tonydragon/)  
 <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sm_park00&color=white&slug=CES-2024-참관-후기)](https://velog.io/@sm_park00)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sm_park00&color=white)](https://velog.io/@sm_park00)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sm_park00)](https://velog.io/@sm_park00) 
 </div>
