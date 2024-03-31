@@ -19,6 +19,7 @@
 <div align="center">
   
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 <div align="center">
 
 <h3 align="center"><b>💌 Contact 💌 </b></h3>
