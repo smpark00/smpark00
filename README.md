@@ -14,7 +14,7 @@
   
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![js](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 <div align="center">
 
 <h3 align="center"><b> Framework </b></h3>
